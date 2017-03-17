@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About book
-subtitle: About "Claims reserving in general insurance"
+title: A book on general insurance claims reserving
+subtitle: Summary of content
 ---
 
 Summary of book will go here
