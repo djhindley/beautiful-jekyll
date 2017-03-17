@@ -26,10 +26,11 @@ navbar-links:
   About Me: "aboutme"
   Reserving book:
   - About: "aboutbook"
-  - App: "http://www.davidjhindley.com/"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  - App: "http://www.davidjhindley.com:3838/Claimsreserving/"
+  - Useful links:
+    - Institute of Actuaries: "http://www.actuaries.org.uk/"
+    - CAS: "http://www.casact.org/"
+    - ASTIN: "http://www.actuaries.org/index.cfm?lang=EN&DSP=ASTIN&ACT=INDEX/"
    # - GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
 
