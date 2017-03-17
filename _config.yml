@@ -23,7 +23,7 @@ description: A website devoted to the art and science of claims reserving in gen
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About this website: "aboutme"
   Reserving book:
   - About: "aboutbook"
   - App: "http://www.davidjhindley.com:3838/Claimsreserving/"
