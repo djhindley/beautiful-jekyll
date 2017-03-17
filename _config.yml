@@ -94,7 +94,7 @@ url-pretty: "djhindley.github.io"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "dj_hind"
+disqus: "djhdisqus"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
