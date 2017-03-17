@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Claims reserving
-subtitle: Summary of the aims of this website
+subtitle: A summary of the aims of this website
 ---
 This website is intended as a resource devoted to the art and science
 of claims reserving in general insurance.
