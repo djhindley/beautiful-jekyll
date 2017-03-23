@@ -32,12 +32,11 @@ navbar-links:
   - Institute of Actuaries: "http://www.actuaries.org.uk/"
   - CAS: "http://www.casact.org/"
   - IAA/ASTIN: "http://www.actuaries.org/"
-   # - GitHub Pages: "https://pages.github.com/"
-  #Author's home: "http://deanattali.com"
+   
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/faviconline3.png"
+avatar: "/img/faviconline3.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
