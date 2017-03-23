@@ -4,8 +4,8 @@ published: true
 title: Reserving app
 date: '2017-03-23'
 ---
+![app_screen2.jpg]({{site.baseurl}}/img/app_screen2.jpg)
 
-![reservingim1.JPG]({{site.baseurl}}/img/reservingim1.JPG)
 This post summarises the basic details of a reserving app that will accompany the forthcoming book on claims reserving in general insurance.  
 
 1. The app can be accessed via this website - using the menu on the right-hand-side and clicking on Reserving Book/App or by clicking [here](http://www.davidjhindley.com:3838/Claimsreserving/). 
