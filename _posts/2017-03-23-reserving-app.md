@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Reserving app
 date: '2017-03-23'
-image: \img\big-imgs\
 ---
 ![app_screen2.jpg]({{site.baseurl}}/img/app_screen2.jpg)
 
