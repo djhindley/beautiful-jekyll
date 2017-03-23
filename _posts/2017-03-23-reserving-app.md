@@ -4,8 +4,6 @@ published: true
 title: Reserving app
 date: '2017-03-23'
 ---
-##A reserving app##
-###No software required!###
 
 This post summarises the basic details of a reserving app that will accompany the forthcoming book on claims reserving in general insurance.  
 
