@@ -26,7 +26,7 @@ navbar-links:
   About: "aboutme"
   Reserving book:
   - About: "aboutbook"
-  - App: "http://www.davidjhindley.com:3838/Claimsreserving/"
+  - App: "http://www.davidjhindley.com/shiny/claimsreserving"
   - Buy: "buybook"
   Useful links:
   - Institute of Actuaries: "http://www.actuaries.org.uk/"
