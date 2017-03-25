@@ -7,7 +7,6 @@ css: "/css/search.css"
 # Search claimsreserving.com
 
 ### Using Google
-
 <div id="google-custom-search">
 <script>
   (function() {
