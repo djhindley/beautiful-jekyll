@@ -34,9 +34,8 @@ navbar-links:
   - IAA/ASTIN: "http://www.actuaries.org/"
   - FRC Actuarial: "https://www.frc.org.uk/Our-Work/Codes-Standards/Actuarial-Policy/"
   - EIOPA (S II): "https://eiopa.europa.eu/regulation-supervision/insurance/solvency-ii"
-  - International Actuarial
-    - SOA: "https://www.soa.org/member/
-    - CAS: "http://www.casact.org/"
+  - SOA: "https://www.soa.org/member/
+   
 nav-search: search
 
 # Image to show in the navigation bar - image must be a square (width = height)
