@@ -32,6 +32,7 @@ navbar-links:
   - Institute of Actuaries: "http://www.actuaries.org.uk/"
   - CAS: "http://www.casact.org/"
   - IAA/ASTIN: "http://www.actuaries.org/"
+  - FRC Actuarial: "https://www.frc.org.uk/Our-Work/Codes-Standards/Actuarial-Policy/"
 nav-search: search
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -53,7 +54,7 @@ author:
   github: djhindley    # eg. daattali
   twitter: dj_h   # eg. daattali
     # eg. +DeanAttali or 109424658772469020925
-  linkedin: David Hindley  # eg. daattali
+  linkedin: david-hindley-2672b017  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
