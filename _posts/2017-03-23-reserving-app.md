@@ -4,7 +4,7 @@ published: true
 title: Reserving app
 date: '2017-03-23'
 ---
-![app_screen1.jpg]({{site.baseurl}}/img/app_screen2.jpg)
+![app_screen1.png]({{site.baseurl}}/img/app_screen1.png)
 
 This post summarises the basic details of a reserving app that will accompany the forthcoming book on claims reserving in general insurance.  
 
