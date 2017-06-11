@@ -26,7 +26,7 @@ navbar-links:
   About: "aboutme"
   Reserving book:
   - About: "aboutbook"
-  - App: "https://www.davidjhindley.com/shiny/claimsreserving"
+  - App: "aboutapp"
   - Buy: "buybook"
   Useful links:
   - IFoA: "http://www.actuaries.org.uk/"
@@ -35,6 +35,7 @@ navbar-links:
   - FRC Actuarial: "https://www.frc.org.uk/Our-Work/Codes-Standards/Actuarial-Policy/"
   - EIOPA (S II): "https://eiopa.europa.eu/regulation-supervision/insurance/solvency-ii"
   - SOA: "https://www.soa.org/member/"
+  - Reserving app: "https://www.davidjhindley.com/shiny/claimsreserving"
 nav-search: search
 
 # Image to show in the navigation bar - image must be a square (width = height)
