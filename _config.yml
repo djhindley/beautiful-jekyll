@@ -27,6 +27,7 @@ navbar-links:
   Reserving book:
   - About: "aboutbook"
   - App: "aboutapp"
+  - R code: "rcode"
   - Buy: "buybook"
   Useful links:
   - IFoA: "http://www.actuaries.org.uk/"
