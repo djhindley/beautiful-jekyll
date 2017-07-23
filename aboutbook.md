@@ -10,4 +10,4 @@ This is a comprehensive and accessible reference source that documents the theor
  - Includes details of reserving in practice, both in general terms and in a number of specific contexts
  - Contains mathematical formulation of all key methods, using a consistent notation throughout
 
-Read more at http://www.cambridge.org/it/academic/subjects/mathematics/optimization-or-and-risk-analysis/claims-reserving-general-insurance#TyXeTIHj206WwG75.99
+Read more [here](http://www.cambridge.org/it/academic/subjects/mathematics/optimization-or-and-risk-analysis/claims-reserving-general-insurance#TyXeTIHj206WwG75.99).
