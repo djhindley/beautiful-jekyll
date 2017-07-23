@@ -17,5 +17,5 @@ The files below are as per those shown in Appendix B of the book entitled "Claim
  - [Gammaexample.R]({{site.baseurl}}\Rfiles\Gammaexample.R) - Gamma and other GLM models
  
  The next file is not contained in the appendix to the book, but is the source code referenced in Section 4.5.1 of the book as being available from the author.
- - [Bayesexample.R]({{site.baseurl}}\Rfiles\Bayesexample.R) - Bayesian methods (NB: Needs WinBugs installed)
+ - [Bayes_example.R]({{site.baseurl}}\Rfiles\Bayes_example.R) - Bayesian methods (NB: Needs WinBugs installed)
 
