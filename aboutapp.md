@@ -17,6 +17,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 See full Notice and License in the app itself for further details.
 
 1. The app can be accessed [here](https://www.davidjhindley.com/shiny/claimsreserving).  Copy this link if you wish to access the app directly from your browser in future.  
-2. The app contains examples explained in the book for Chain Ladder, Mack, Bootstrap, Merz-Wuthrich, as well as a further example on the use of copula for aggregation of stochastic reserving results across multiple classes. 
+2. The app contains examples explained in the book for Chain Ladder, BF, Mack, Bootstrap, GLM, Merz-Wuthrich, as well as a further example on the use of copula for aggregation of stochastic reserving results across multiple classes. 
 3. No specialist software is required to run the app - just access to the internet via a web browser.
 4. If you have comments or questions on the app, send an email to info@claimsreserving.com or contribute to the discussion at the end of the blog post [here]({% post_url 2017-03-23-reserving-app %}).
