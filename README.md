@@ -5,5 +5,5 @@
 
 > *Copyright 2017 [David Hindley](http://djhindley.com)*
 
-**This website** is designed to focus on the subject of claims reserving in general insurance.
+**This website** is designed to focus on the subject of claims reserving in general insurance.  It is in development at present (September 2017).
 
