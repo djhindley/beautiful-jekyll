@@ -15,6 +15,7 @@ particular application without independent testing and verification by the perso
 the application. In addition, the author and publisher are not offering this book as actuarial,
 statistical or other professional services advice, and no reliance should be placed on it as
 such.
+
 For these reasons, the author and publisher make no warranties, express or implied,
 that the descriptions, worked examples, software code, data, mathematical formulations,
 or other information in this volume are free of error, that they are consistent with industry
@@ -26,6 +27,7 @@ purpose, and even if a particular purpose is indicated in the book. The author a
 also disclaim all liability for direct, indirect, incidental, or consequential damages that result
 from any use of the descriptions, worked examples, software code, data, mathematical
 formulations, or other information in this book.
+
 Permission to use the third-party content in this volume was obtained for use in this
 volume only. Neither the publisher nor the author make any representation regarding whether
 re-use of third-party descriptive text, worked examples, software code, data, mathematical
@@ -36,8 +38,11 @@ is considered to be experimental in nature. By using any of the third-party desc
 worked examples, software code, data, mathematical formulations or other information in
 this volume, the reader has agreed to assume all liability for any damages arising from or
 relating to such use, regardless of whether such liability is based on intellectual property
-or any other cause of action, and regardless of whether the damages are direct, indirect, incidental, consequential, or any other type of damage. The authors and publisher disclaim
+or any other cause of action, and regardless of whether the damages are direct, indirect, incidental, consequential, or any other type of damage. 
+
+The authors and publisher disclaim
 any such liability for re-use of third-party content.
+
 Nothing in the foregoing paragraphs is intended to limit or restrict liability that cannot
 be lawfully limited or restricted.
 
